@@ -1,2 +1,2 @@
 # LemonCodeHomeWork
-Ejercicioes del Máster Front-End III de LemonCode
+Ejercicios del Máster Front-End III de LemonCode
